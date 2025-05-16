@@ -16,4 +16,4 @@ For Web Deployment we have used Flask Framework and pickle library.
 In Conclusion, Although all the models yield similar results, the theoretical reasons and theoretical considerations are different.
 The overall best performing model to predict bank customer churn is Random Forest Classifier. This is due its overall performance for all the evaluation measurements and computational efficiency.
 
-Our WedApp will predict whether any customer will be churned or not churned. Once we know abuot the customers who are on the verge of leaving the association, then we can use various promotional strategies targeted to impress or improve our relation with that customer thus by reducing the bank churn rate.
+Our WebApp will predict whether any customer will be churned or not churned. Once we know abuot the customers who are on the verge of leaving the association, then we can use various promotional strategies targeted to impress or improve our relation with that customer thus by reducing the bank churn rate.
