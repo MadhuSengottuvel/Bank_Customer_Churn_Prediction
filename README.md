@@ -3,10 +3,10 @@ The ability to predict that a particular customer is at a high risk of churning,
 it is to retain a current paying customer.
 
 The Algorithms chosen for modelling are
-  Logistic Regression
-  Support Vector Machine with RBF Kernel
-  Support Vector Machine with Poly Kernel
-  Random Forest Classifier
+  Logistic Regression,
+  Support Vector Machine with RBF Kernel,
+  Support Vector Machine with Poly Kernel,
+  Random Forest Classifier,
   XG Boost Classifier
 
 By using ROC curve for the above five models, we have concluded that the best alogrithm suited for our model is RANDOM FOREST CLASSIFIER
